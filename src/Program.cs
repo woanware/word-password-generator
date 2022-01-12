@@ -1,6 +1,4 @@
-﻿//https://github.com/schollz/mnemonicode/blob/master/word_list.go
-
-using System.CommandLine;
+﻿using System.CommandLine;
 using System.Security.Cryptography;
 using word_password_generator;
 
